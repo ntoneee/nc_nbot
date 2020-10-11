@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+.idea/
+
+config.py
+*.session
+*.session-journal
